@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Alaa Mohamed Elsayed
+- 👀 I’m interested in coding and web design, specially with C++ languge and Python
+- 🌱 I’m currently a trainer to pesent the UAE in the international informatics olympiad
+- 📫 How to reach me:
+- Phone numbe: +971507839071
+- Instagram: alaa_3801
